@@ -1,4 +1,5 @@
-v0.22
-Added optional skipping of an update. 
-Added patch notes before updating. 
-Checking for updates only runs once per session now. 
+v0.3
+Moved updating to settings
+Added importing games 
+Removed auto-update
+Fixed bugs
