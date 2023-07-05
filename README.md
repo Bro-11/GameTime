@@ -5,3 +5,4 @@ Nothing against RoutineHub, just wanna make this shortcut different.
 
 Helpful Link: 
 [Publishing to the Store](StorePublishingInstructiona)
+[Updating Your Games](UpdatingGamesInstructiona)
