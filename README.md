@@ -4,4 +4,4 @@ Basically where I keep all thecurrent version numbers, URLs to updates, and what
 Nothing against RoutineHub, just wanna make this shortcut different. 
 
 Helpful Link: 
-[Publishing to the Store](#StorePublishingInstructiona)
+[Publishing to the Store](StorePublishingInstructiona)
