@@ -1,3 +1,8 @@
+v0.41
+Added feedback feature in settings
+Added option to submit a game/update through the shortcut
+Fixs buged
+ |
 v0.4
 Added store functionality
 Removed token system with xp replacing it. Tokens may come back later.  
