@@ -7,4 +7,4 @@ Helpful Links:
 * [Publishing to the Store](StorePublishingInstructiona)  
 * [Updating Your Games](UpdatingGamesInstructiona)  
 * [List of Verified Games](GameList)  
-* [The Difference Between Verified and Unverified Games](StorePublisingInstruction#Verified-Games)
+* [The Difference Between Verified and Unverified Games](StorePublisingInstructiona#Verified-Games)
