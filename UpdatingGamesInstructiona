@@ -1,8 +1,13 @@
 How to Update Your Game
 
-Create a pull request on your game with the  following information: 
-1. New version number
-2. Shorcut URL
-3. (Optional) Patch Notes
+There are two methods: 
+1. Submit an update request through the shortcut. 
+Same as submitting a game but it gets a higher priority in my inbox. 
+All required fields must be filled out. 
 
-Please note that you can only change your  own games. 
+2. Create a pull request on your game with the  following information: 
+* New version number
+* Shorcut URL
+* (Optional) Patch Notes
+
+Please note that you can only change your own games. 
