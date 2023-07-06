@@ -1,3 +1,9 @@
+v0.31
+Added developer resources in settings
+Repo changelog changes
+Launching games now provides the game with the player name. You can use this to create save profiles for each player
+Bug fixes
+ |
 v0.3
 Moved updating to settings
 Added importing games 
