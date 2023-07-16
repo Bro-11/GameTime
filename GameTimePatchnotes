@@ -1,3 +1,9 @@
+v0.6
+Introducing themes! Add a big of personality to your client using the GameTime Theme Tool! 
+Added GameTime Theme Tool in settings
+Many bug fixes, sorry for that! 
+Partial vCard support for the menus. I'll fix some more bugs and transition the rest of the menus to vCard in 0.61!
+ |
 v0.51
 Added a viewable changelog in settings
 Added dynamic levels in the player select menu
