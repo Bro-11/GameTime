@@ -1,7 +1,7 @@
 v0.62
 Theme preview is now shown when changing your theme. Please note that this is generated newly everytime and will get slow at 30+ themes. Optimizations soon.
      v0.621: Added optimizations to the theme previewing system. 
-     v0.622: Madr progress on buying themes through the store. It's not done yet but it's gettings close. 
+     v0.622: Made progress on buying themes through the store. It's not done yet but it's gettings close. 
  |
 v0.61
 Added vCard menus to every menu(except dev)! 
