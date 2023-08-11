@@ -1,3 +1,9 @@
+v0.63
+Added importing and exporting of themes. 
+Added some missing back arrows to some menus
+Changes the icon for the quit option
+Fixed some bugs
+ |
 v0.62
 Theme preview is now shown when changing your theme. Please note that this is generated newly everytime and will get slow at 30+ themes. Optimizations soon.
      v0.621: Added optimizations to the theme previewing system. 
