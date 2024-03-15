@@ -8,3 +8,6 @@ Helpful Links:
 * [Updating Your Games](UpdatingGamesInstructiona)  
 * [List of Verified Games](GameList)  
 * [The Difference Between Verified and Unverified Games](VerifiedGames)
+
+
+[Terms of Use](TOU)
